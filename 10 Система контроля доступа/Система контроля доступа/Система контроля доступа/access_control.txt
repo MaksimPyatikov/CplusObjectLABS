@@ -1,0 +1,24 @@
+19
+Administrator,Pyatikov Maksim,4001,3,Administator
+Student,Olga Morozov,5001,1,IT405
+Student,Olga Zaitsev,5002,1,CS301
+Student,Tatiana Voronin,5003,1,CS301
+Student,Victor Popov,5004,1,IT405
+Student,Dmitri Kuznetsov,5005,1,SE202
+Student,Maria Zaitsev,5006,1,SE202
+Student,Roman Petrov,5007,1,SE202
+Student,Maria Egorov,5008,1,CS301
+Student,Nikita Popov,5009,1,CS301
+Student,Victor Voronin,5010,1,IT405
+Student,Andrei Volodin,2001,1,IT405
+Teacher,Larz Herbert,3001,2,Cybersecurity
+Teacher,Roman Orlov,5011,2,Computer science
+Teacher,Ekaterina Voronin,5012,2,Cybersecurity
+Teacher,Ekaterina Egorov,5013,2,Cybersecurity
+Teacher,Dmitri Voronin,5014,2,Artificial Intelligence
+Teacher,Sergei Smirnov,5015,2,Cybersecurity
+Teacher,Natalia Zaitseva,3002,2,Artificial Intelligence
+3
+Seminar Room,1
+Data Center,3
+Resource Library,2
